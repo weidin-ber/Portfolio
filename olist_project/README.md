@@ -8,6 +8,7 @@ The data was anonymized before publishing it on Kaggle.
 The data-sets can be found [here](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) and [here.](https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist)
 
 Goal of this project is to deep dive into the Olist data-set and understand their business case and present the findings about sales, product and marketing data in a presentation.
+[Link](https://public.tableau.com/views/Olis_midtermproject_final/Index?:language=en-US&:display_count=n&:origin=viz_share_link) to Tableau.
 
   **Day 1** <br>
     - Define relevant data <br>
